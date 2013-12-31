@@ -3,10 +3,10 @@
   <groupId>com.not2excel.api</groupId>
   <artifactId>EXceLAPI</artifactId>
   <versioning>
-    <release>1.2</release>
+    <release>1.3</release>
     <versions>
-      <version>1.2</version>
+      <version>1.3</version>
     </versions>
-    <lastUpdated>20131226072146</lastUpdated>
+    <lastUpdated>20131231180620</lastUpdated>
   </versioning>
 </metadata>
